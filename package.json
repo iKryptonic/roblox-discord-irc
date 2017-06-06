@@ -1,0 +1,8 @@
+"scripts": {
+  "start": "heck.js"
+  "dependencies": {
+    "express": "expressjs/express",
+    "discord": "hydrabolt/discord.js",
+  }
+},
+"main": "heck.js"

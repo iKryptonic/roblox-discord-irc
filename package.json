@@ -5,12 +5,12 @@
   "engines": {
     "node": "6.10.2"
   },
-  "main": "heck.js",
+  "main": "index.js",
   "scripts": {
-    "start": "heck.js"
+    "start": "index.js"
   },
   "dependencies": {
-    "discord": "11.1.0",
+    "discord.js": "11.1.0",
     "express": "4.15.2"
   },
   "repository": {

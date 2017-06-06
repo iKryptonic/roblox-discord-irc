@@ -2,17 +2,25 @@
   "name": "discord-irc",
   "version": "1.0.0",
   "description": "Used to translate messages from roblox to discord",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/iKryptonic/roblox-discord-irc.git"
+  "engines": {
+    "node": "6.10.2"
   },
-  "author": "Jon Ells",
-  "license": "MIT",
+  "main": "heck.js",
   "scripts": {
-    "start": "heck.js",
+    "start": "heck.js"
   },
   "dependencies": {
-    "express": "^4.14.0",
-    "discord.js": "^11.1.0",
+    "discord": "11.1.0",
+    "express": "4.15.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iKryptonic/roblox-discord-irc"
+  },
+  "keywords": [
+    "discord",
+    "ikrypto",
+    "express"
+  ],
+  "license": "MIT"
 }

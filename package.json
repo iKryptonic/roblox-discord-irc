@@ -1,8 +1,20 @@
 {
-	"start": "heck.js",
-	"dependencies": {
-		"express": "expressjs/express",
-		"discord": "hydrabolt/discord.js"
-	},
-	"main": "heck.js"
+  "name": "discord-irc",
+  "version": "1.0.0",
+  "description": "Used to translate messages from roblox to discord",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iKryptonic/roblox-discord-irc.git"
+  },
+  "author": "Jon Ells",
+  "license": "MIT",
+  "scripts": {
+    "start": "heck.js",
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "discord.js": "^11.1.0",
+  },
+  "devDependencies": {
+  },
 }
